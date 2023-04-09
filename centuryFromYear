@@ -1,0 +1,8 @@
+// Este codigo es para muestrar el siglo al que pertenece el año dado
+
+function solution(year) {
+    century = 100;
+    console.log("Vamos a ver a que siglo pertenece el año")
+    return Math.ceil(year / century);
+
+}
