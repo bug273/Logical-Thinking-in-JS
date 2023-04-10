@@ -1,0 +1,10 @@
+/**
+*  Con esta funcion sumamos dos variables
+**/
+
+
+function solution(param1, param2) {
+
+        console.log("vamos a ver que tiene cada variable");
+        return param1 + param2;
+}
